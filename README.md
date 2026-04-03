@@ -1,7 +1,7 @@
 # ## 🌐 Live Access
 
 To view the Aivox Search Lab locally:
-### 🔗 **[Click Here for the Live Website Demonstration](https://aivox-search-lab.vercel.app/)**
+### 🔗 **[Click Here for the Live Website Demonstration](https://aivox-search-lab-v2.vercel.app/)**
 
 # 🧪 Aivox. Search Lab v2.0
 
