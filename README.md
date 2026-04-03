@@ -29,6 +29,13 @@ Experience the lab: **[Search Lab v2.0 Live](https://aivox-search-lab-v2.vercel.
 
 ---
 
+## 🎬 Product Walkthrough
+Experience the full power of the **Search Lab Engine** and **Registry Explorer** in this comprehensive demonstration:
+
+![Search Lab v2.0 Demo](file:///C:/Users/Sameer/.gemini/antigravity/brain/a610c7ce-b650-452a-bafe-5ac556085ad1/search_lab_v2_demo_video_1775215936191.webp)
+
+---
+
 ## 🚀 Core Research Modules
 
 ### 🖥️ Registry Explorer (Master-Detail)
