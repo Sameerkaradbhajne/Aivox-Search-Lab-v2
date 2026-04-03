@@ -15,7 +15,7 @@ To view the Aivox Search Lab locally:
 ---
 
 ## ⚡ Live Ecosystem
-Experience the lab: **[Search Lab v2.0 Live](https://aivox-search-lab.vercel.app/)**
+Experience the lab: **[Search Lab v2.0 Live](https://aivox-search-lab-v2.vercel.app/)**
 
 ---
 
